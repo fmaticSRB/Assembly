@@ -2,7 +2,7 @@
 # Author: Filip Matic
 # Description: This program loads addresses of variables, 
 #	performs arithmetic on the variables, 
-#	and uses syscall to display the results.
+#	and uses syscall to display the results. 
 ###########################################################
 
 #Data declaration: Declare variable names used in the program.
